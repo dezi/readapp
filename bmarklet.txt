@@ -1,0 +1,1 @@
+javascript:void((function()%7Bvar%20e=document.createElement('script');e.type='text/javascript';e.src='https://raw.github.com/dezi/readapp/master/main.js?r='+Math.random();document.body.appendChild(e)%7D)());
