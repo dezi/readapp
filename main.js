@@ -14,6 +14,8 @@ site.src
 	+ '/sites/'
 	+ match[ 2 ]
 	+ '.js'
+	+ '?r='
+	+ Math.random()
 	;
 
 document.body.appendChild(site);
